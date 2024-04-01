@@ -26,3 +26,15 @@ teste2 = {'cleyde','James da salada de fruta'}
 
 a = "jose"
 print(nil == nul)
+
+
+a = 1
+b = 2
+maior = nil
+if a > b then
+    maior = a
+else
+     maior = b
+end
+print(maior)
+
